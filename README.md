@@ -1,5 +1,3 @@
-# Text-Sentiment-Analysis
-Sentiment analysis on Persian text data using machine learning
 # 📊 TextSentimentAnalysis
 
 A machine learning project for sentiment analysis of Persian text comments using Natural Language Processing (NLP) and a Naive Bayes classifier.
